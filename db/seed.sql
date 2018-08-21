@@ -1,0 +1,1 @@
+create table inventory (id serial primary key, name varchar(40), price money, shelf_id varchar(1), bin_id integer)
